@@ -1,0 +1,2 @@
+# MineSC
+Server Minecraft Pe
